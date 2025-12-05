@@ -1,0 +1,6 @@
+[submodule "Server-Client-RPS-Game"]
+	path = Server-Client-RPS-Game
+	url = https://github.com/SagarKothari7/Rock-Paper-Scissors-Game.git
+[submodule "HCI-Project"]
+	path = HCI-Project
+	url = https://github.com/csu-hci-projects/SP24-The-Daily-Simplifiers.git
