@@ -4,3 +4,6 @@
 [submodule "HCI-Project"]
 	path = HCI-Project
 	url = https://github.com/csu-hci-projects/SP24-The-Daily-Simplifiers.git
+[submodule "Web-Development-Project"]
+	path = Web-Development-Project
+	url = https://github.com/Lewi0027/t9.git
